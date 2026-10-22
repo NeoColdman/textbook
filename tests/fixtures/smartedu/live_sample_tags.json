@@ -1,0 +1,63 @@
+{
+  "hierarchies": [
+    {
+      "hierarchy_name": "专题*",
+      "children": [
+        {
+          "tag_id": "ac92c18a-58c8-41da-86a5-f44afe3a90f7",
+          "tag_name": "电子教材",
+          "tag_dimension_id": "5036342742",
+          "hierarchies": [
+            {
+              "hierarchy_name": "电子教材",
+              "children": [
+                {
+                  "tag_id": "e7bbb2de-0590-11ed-9c79-92fc3b3249d5",
+                  "tag_name": "小学",
+                  "tag_dimension_id": "zxxxd",
+                  "hierarchies": [
+                    {
+                      "hierarchy_name": "学科",
+                      "children": [
+                        {
+                          "tag_id": "6a74973a-0772-11ed-ac74-092ab92074e6",
+                          "tag_name": "道德与法治",
+                          "tag_dimension_id": "zxxxk",
+                          "hierarchies": [
+                            {
+                              "hierarchy_name": "版本",
+                              "children": [
+                                {
+                                  "tag_id": "44bee8bc-54e6-11ed-9c34-850ba61fa9f4",
+                                  "tag_name": "统编版",
+                                  "tag_dimension_id": "zxxbb",
+                                  "hierarchies": [
+                                    {
+                                      "hierarchy_name": "年级",
+                                      "children": [
+                                        {
+                                          "tag_id": "e7bbd296-0590-11ed-9c79-92fc3b3249d5",
+                                          "tag_name": "一年级",
+                                          "tag_dimension_id": "zxxnj",
+                                          "hierarchies": null
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+.venv/
+.tmp/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+textbooks/
+credentials*.json
+.DS_Store
+# 本地上游参考仓库，不属于本项目源代码。
+tchMaterial-parser/

@@ -1,0 +1,85 @@
+{
+  "id": "bdc00134-465d-454b-a541-dcd0cec4d86e",
+  "title": "（根据2022年版课程标准修订）义务教育教科书·道德与法治一年级上册",
+  "global_title": {
+    "zh-CN": "（根据2022年版课程标准修订）义务教育教科书·道德与法治一年级上册"
+  },
+  "resource_type_code": "assets_document",
+  "tag_paths": [
+    "f5261ccc-b7a5-42f4-b015-610dcec58c60/ac92c18a-58c8-41da-86a5-f44afe3a90f7/e7bbb2de-0590-11ed-9c79-92fc3b3249d5/6a74973a-0772-11ed-ac74-092ab92074e6/44bee8bc-54e6-11ed-9c34-850ba61fa9f4/e7bbd296-0590-11ed-9c79-92fc3b3249d5/ff8080814371757b014390f883db0453"
+  ],
+  "tag_list": [
+    {
+      "tag_id": "ac92c18a-58c8-41da-86a5-f44afe3a90f7",
+      "tag_name": "电子教材",
+      "tag_dimension_id": "5036342742",
+      "order_num": 0
+    },
+    {
+      "tag_id": "2cbuPWM3oXGSBI80OFKOSa",
+      "tag_name": "教材",
+      "tag_dimension_id": "tagView",
+      "order_num": 196
+    },
+    {
+      "tag_id": "44bee8bc-54e6-11ed-9c34-850ba61fa9f4",
+      "tag_name": "统编版",
+      "tag_dimension_id": "zxxbb",
+      "order_num": 224
+    },
+    {
+      "tag_id": "ff8080814371757b014390f883db0453",
+      "tag_name": "上册",
+      "tag_dimension_id": "zxxcc",
+      "order_num": 238
+    },
+    {
+      "tag_id": "e7bbd296-0590-11ed-9c79-92fc3b3249d5",
+      "tag_name": "一年级",
+      "tag_dimension_id": "zxxnj",
+      "order_num": 10
+    },
+    {
+      "tag_id": "e7bbb2de-0590-11ed-9c79-92fc3b3249d5",
+      "tag_name": "小学",
+      "tag_dimension_id": "zxxxd",
+      "order_num": 0
+    },
+    {
+      "tag_id": "6a74973a-0772-11ed-ac74-092ab92074e6",
+      "tag_name": "道德与法治",
+      "tag_dimension_id": "zxxxk",
+      "order_num": 11
+    }
+  ],
+  "version_id": "bdc00134-465d-454b-a541-dcd0cec4d86e",
+  "update_time": "2026-08-18T11:38:05.668+0800",
+  "ti_items": [
+    {
+      "ti_md5": "72e095e8d26499a9caa613b183544182",
+      "ti_size": 3129,
+      "ti_storage": "cs_path:${ref-path}/edu_product/esp/assets/bdc00134-465d-454b-a541-dcd0cec4d86e.pkg/ebook_mapping_1750733054539.txt",
+      "ti_storages": [
+        "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/bdc00134-465d-454b-a541-dcd0cec4d86e.pkg/ebook_mapping_1750733054539.txt",
+        "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/bdc00134-465d-454b-a541-dcd0cec4d86e.pkg/ebook_mapping_1750733054539.txt",
+        "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/bdc00134-465d-454b-a541-dcd0cec4d86e.pkg/ebook_mapping_1750733054539.txt"
+      ],
+      "ti_file_flag": "ebook_mapping",
+      "ti_is_source_file": false,
+      "ti_format": "txt"
+    },
+    {
+      "ti_md5": "724c9f067bb55729b44f1147465f7bf0-3",
+      "ti_size": 22620491,
+      "ti_storage": "cs_path:${ref-path}/edu_product/esp/assets/bdc00134-465d-454b-a541-dcd0cec4d86e.pkg/9787107382369_义务教育教科书•道德与法治_一年级_上册_人民教育出版社三科办_1787020693303.pdf",
+      "ti_storages": [
+        "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/bdc00134-465d-454b-a541-dcd0cec4d86e.pkg/9787107382369_义务教育教科书•道德与法治_一年级_上册_人民教育出版社三科办_1787020693303.pdf",
+        "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/bdc00134-465d-454b-a541-dcd0cec4d86e.pkg/9787107382369_义务教育教科书•道德与法治_一年级_上册_人民教育出版社三科办_1787020693303.pdf",
+        "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/bdc00134-465d-454b-a541-dcd0cec4d86e.pkg/9787107382369_义务教育教科书•道德与法治_一年级_上册_人民教育出版社三科办_1787020693303.pdf"
+      ],
+      "ti_file_flag": "source",
+      "ti_is_source_file": true,
+      "ti_format": "pdf"
+    }
+  ]
+}

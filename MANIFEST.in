@@ -1,0 +1,6 @@
+include README.md THIRD_PARTY_NOTICES.md uv.lock
+recursive-include licenses *.txt
+recursive-include docs *.md
+recursive-include tests *.py *.json
+prune .tmp
+prune tchMaterial-parser
